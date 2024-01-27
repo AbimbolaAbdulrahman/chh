@@ -1,0 +1,39 @@
+body{
+ background-color: palevioletred;
+}
+.US{
+ text-align: center; 
+color: aqua;
+
+}
+.add{
+  color: aqua;  
+text-align: center;
+}
+.map{
+ padding-left:10px ;   
+padding-top: 10px;
+text-align: center;
+}
+{
+ width:100px ;   
+height:100px ;
+margin-right: 800px;
+align-items: center;
+display:flex;
+padding-left:50px ;
+flex-direction: row;
+}
+.Gmail {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height:100px ;
+}
+
+
+
+
+
+
